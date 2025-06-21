@@ -35,7 +35,7 @@
     height: 28px;
     filter: drop-shadow(0 2px 1px rgb(0 0 0 / .25));
     opacity: 1;
-    animation: fade-in 1s;
+    animation: fade-in .5s;
 }
 
 @keyframes fade-in {
